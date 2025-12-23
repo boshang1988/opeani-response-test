@@ -34,6 +34,9 @@ python3 list_models.py
   ]
 }
 ```
+
+Use this dumbass: 
+
 mkvenv() {
   python3 -m venv venv && source venv/bin/activate
 }
