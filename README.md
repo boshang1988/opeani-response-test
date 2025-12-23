@@ -34,3 +34,8 @@ python3 list_models.py
   ]
 }
 ```
+mkvenv() {
+  python3 -m venv venv && source venv/bin/activate
+}
+
+alias v='mkvenv'
