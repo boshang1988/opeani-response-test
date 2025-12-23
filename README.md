@@ -1,46 +1,19 @@
-GPT-5.2 Family
-  | Model        | Status          |
-  |--------------|-----------------|
-  | gpt-5.2      | ✓ AVAILABLE     |
-  | gpt-5.2-mini | ✗ NOT AVAILABLE |
-  | gpt-5.2-pro  | ✓ AVAILABLE     |
+  
+  | Model                  | Status      |
+  |------------------------|-------------|
+  | gpt-5.2                | ✓ AVAILABLE |
+  | gpt-5.2-2025-12-11     | ✓ AVAILABLE |
+  | gpt-5.2-chat-latest    | ✓ AVAILABLE |
+  | gpt-5.2-pro            | ✓ AVAILABLE |
+  | gpt-5.2-pro-2025-12-11 | ✓ AVAILABLE |
 
-  GPT-5.1 Family
-  | Model              | Status          |
-  |--------------------|-----------------|
-  | gpt-5.1            | ✓ AVAILABLE     |
-  | gpt-5.1-mini       | ✗ NOT AVAILABLE |
-  | gpt-5.1-pro        | ✗ NOT AVAILABLE |
-  | gpt-5.1-codex      | ✓ AVAILABLE     |
-  | gpt-5.1-codex-mini | ✓ AVAILABLE     |
+  All gpt-5.2 models working.
 
-  GPT-5 Family
-  | Model       | Status      |
-  |-------------|-------------|
-  | gpt-5       | ✓ AVAILABLE |
-  | gpt-5-mini  | ✓ AVAILABLE |
-  | gpt-5-nano  | ✓ AVAILABLE |
-  | gpt-5-pro   | ✓ AVAILABLE |
-  | gpt-5-codex | ✓ AVAILABLE |
 
-  GPT-4.1 / 4o Family
-  | Model        | Status      |
-  |--------------|-------------|
-  | gpt-4.1      | ✓ AVAILABLE |
-  | gpt-4.1-mini | ✓ AVAILABLE |
-  | gpt-4.1-nano | ✓ AVAILABLE |
-  | gpt-4o       | ✓ AVAILABLE |
-  | gpt-4o-mini  | ✓ AVAILABLE |
+112 models total. Notable ones:
+  - gpt-5.2 family: gpt-5.2, gpt-5.2-pro, gpt-5.2-chat-latest
+  - gpt-5.1 family: gpt-5.1, gpt-5.1-codex, gpt-5.1-codex-mini, gpt-5.1-codex-max
+  - gpt-5 family: gpt-5, gpt-5-mini, gpt-5-nano, gpt-5-pro, gpt-5-codex
+  - o-series: o1, o1-pro, o3, o3-mini, o3-pro, o4-mini
 
-  O-Series
-  | Model   | Status          |
-  |---------|-----------------|
-  | o1      | ✓ AVAILABLE     |
-  | o1-mini | ✗ NOT AVAILABLE |
-  | o1-pro  | ✓ AVAILABLE     |
-  | o3      | ✓ AVAILABLE     |
-  | o3-mini | ✓ AVAILABLE     |
-  | o3-pro  | ✓ AVAILABLE     |
-  | o4-mini | ✓ AVAILABLE     |
-
-  <img width="1475" height="1033" alt="Screenshot 2025-12-22 at 10 28 29 PM" src="https://github.com/user-attachments/assets/a881f1e0-1509-489a-907a-1fe6912e5c84" />
+  Still no gpt-5.1-mini or gpt-5.2-mini in the list.
